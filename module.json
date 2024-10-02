@@ -15,7 +15,7 @@
   },
   "parameters": {},
   "hideDefaultParameters": [],
-  "scripts": ["rzseries.js"],
+  "scripts": ["panasonic_projectors_serial.js"],
   "values": {},
   "commands": {
     "Power": {
