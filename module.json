@@ -3,7 +3,7 @@
   "type": "Serial",
   "path": "Hardware",
   "version": "0.0.2",
-  "description": "Chataigne Module for serial control of Panasonic Projectors by Nic Roßmann (Thalia Theater Hamburg)",
+  "description": "Chataigne Module for serial control of Panasonic Projectors by Nic Roßmann, Jonas Link (Thalia Theater Hamburg)",
   "url": "https://github.com/colneck/panasonic-projector-serial-chataigne-module",
   "downloadURL": "",
   "hasInput": true,
