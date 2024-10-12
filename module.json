@@ -1,5 +1,5 @@
 {
-  "name": "Panasonic Projector Serial Interface control",
+  "name": "Panasonic Projector Serial",
   "type": "Serial",
   "path": "Hardware",
   "version": "0.0.3",
